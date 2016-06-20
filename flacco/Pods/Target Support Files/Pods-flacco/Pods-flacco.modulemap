@@ -1,0 +1,6 @@
+framework module Pods_flacco {
+  umbrella header "Pods-flacco-umbrella.h"
+
+  export *
+  module * { export * }
+}
